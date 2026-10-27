@@ -1,0 +1,8 @@
+feat: initialize Homie.ai data and commerce backend
+
+- Set up FastAPI application and health-check endpoints
+- Configure SQLAlchemy with Supabase PostgreSQL
+- Add Product and Offer database models
+- Initialize Alembic migrations
+- Add product review-analysis fields
+- Document setup and development workflow
